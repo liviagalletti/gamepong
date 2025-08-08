@@ -6,7 +6,7 @@ The game is a classic two-player Pong match. Each player controls a paddle on on
 
 This project was a way for me to challenge myself with interactive, event-driven programming, and to learn how to design a small but complete arcade-style game from scratch.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://https://youtu.be/5kDdeWU80X4)
 
 # Development Environment
 
